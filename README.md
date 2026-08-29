@@ -1,12 +1,3 @@
-# Gems-of-War, v9 Update, 10 December 2025
+# Gems-of-War, v9.3 Update, 29 July 2026
 
-This is the new way to play GOW
-
-1 Activate all script
-
-2 start battle
-
-3 After winning, press the mousebutton4 twice (this deactivates and then reactivates the GitHub BOOM script). (only for those who have a 5-button mouse )
-
-4 start another battle
-
+GOW v9.3 contains: GitHub BOOM, Boom for Explore [With Cedric], Boom for Arena, All Rewards v9.3 plus NOP mov [esi+10],00000001
